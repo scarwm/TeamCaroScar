@@ -38,6 +38,4 @@ public class Carolina {
         this.color = color;
     }
     
-    
-    
 }
